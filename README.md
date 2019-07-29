@@ -95,7 +95,5 @@ We can set the orientation to scroll to vertical
 
 Android development doc : https://developer.android.com/jetpack/androidx/releases/viewpager2
 
-**Output :**
-
 
 
