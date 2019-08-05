@@ -1,8 +1,8 @@
 **Introduction of androidX ViewPager2**
 
-Android Viewpager2 launched by Google on 07th Feb 2019, It’s there in an ALPHA version.
+Android Viewpager2 launched by Google on July 19, 2019, It’s there in an Beta version.
 
-You can know more information about the alpha release here 
+You can know more information about the Beta release here 
 
 **New concepts:**
 
@@ -34,7 +34,7 @@ For example given below
 **Gradle Dependency:** Following dependency add to your app build.gradle.
 
     dependencies { 
-        implementation 'androidx.viewpager2:viewpager2:1.0.0-alpha01'
+        implementation 'androidx.viewpager2:viewpager2:1.0.0-beta02'
     }
 
 **Setup ViewPager2:** Android viewPager2 widget to your XML file
